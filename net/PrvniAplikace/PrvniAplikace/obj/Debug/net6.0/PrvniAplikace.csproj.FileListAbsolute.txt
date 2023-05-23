@@ -1,0 +1,15 @@
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\bin\Debug\net6.0\PrvniAplikace.exe
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\bin\Debug\net6.0\PrvniAplikace.deps.json
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\bin\Debug\net6.0\PrvniAplikace.runtimeconfig.json
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\bin\Debug\net6.0\PrvniAplikace.dll
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\bin\Debug\net6.0\PrvniAplikace.pdb
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.csproj.AssemblyReference.cache
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.AssemblyInfoInputs.cache
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.AssemblyInfo.cs
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.dll
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\refint\PrvniAplikace.dll
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.pdb
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\PrvniAplikace.genruntimeconfig.cache
+C:\xampp\htdocs\aspnet\PrvniAplikace\PrvniAplikace\obj\Debug\net6.0\ref\PrvniAplikace.dll
